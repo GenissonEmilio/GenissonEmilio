@@ -2,7 +2,7 @@
 
 - 🦂 I'm learning programation!
 - 📚 Learning web development!
-- 💻 Developing some applications umas aplicações!
+- 💻 Developing some applications!
 ---
 <div>
   <a href="https://github.com/GenissonEmilio">
