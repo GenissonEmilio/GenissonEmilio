@@ -1,8 +1,8 @@
-### OLÁ! EU SOU GENISSON👋!
+### HELLO! I'M GENISSON👋!
 
-- 🦂 Estudando programação!
-- 📚 Aprendendo desenvolvimento web!
-- 💻 Desenvolvendo umas aplicações aqui e ali!
+- 🦂 I'm learning programation!
+- 📚 Learning web development!
+- 💻 Developing some applications umas aplicações!
 ---
 <div>
   <a href="https://github.com/GenissonEmilio">
