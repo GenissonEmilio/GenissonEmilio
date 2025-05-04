@@ -1,8 +1,8 @@
 ### HELLO! I'M GENISSON👋!
 
-- 🦂 I'm learning programation!
+- 🦂 I'm a Full Stack Devoloper!
 - 📚 Learning web development!
-- 💻 Developing some applications!
+- 💻 Improving my skills every day!
 ---
 <div>
   <a href="https://github.com/GenissonEmilio">
