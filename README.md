@@ -7,6 +7,6 @@
 <div align="center">
   <h2>Estatísticas do Sistema</h2>
   <a href="https://github.com/GenissonEmilio">
-    <img src="https://genisson-stats.vercel.app/api/stats" width="550" alt="Estatísticas de Genisson" />
+    <img src="" width="550" alt="Estatísticas de Genisson" />
   </a>
 </div>
