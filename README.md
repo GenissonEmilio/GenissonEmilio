@@ -50,7 +50,7 @@
   ### 📊 Estatísticas do Sistema
 
   <a href="https://github.com/GenissonEmilio">
-    <img src="https://genisson-stats.vercel.app/api/stats?" width="550" alt="Estatísticas de Genisson" />
+    <img src="https://genisson-stats.vercel.app/api/stats" width="550" alt="Estatísticas de Genisson" />
   </a>
 
   <br><br>
