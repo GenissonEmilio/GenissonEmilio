@@ -17,7 +17,7 @@
   </p>
   
   <p align="left">
-    🔭 <b>Atualmente trabalhando em:</b> Projetos de IoT e Sistemas de Gestão (Lab Morea)<br>
+    🔭 <b>Atualmente trabalhando em:</b> desenvolvimento de aplicações web, mobile e sistemas de gestão<br>
     🌱 <b>Estudando:</b> Arquitetura de Software e Otimização de Sistemas<br>
     ⚡ <b>Interesses:</b> Desenvolvimento Web, IoT, Inteligência Artificial e Design de Interfaces.
   </p>
